@@ -4,7 +4,7 @@ Created on 5 de dez de 2017
 @author: maiconfz
 '''
 import unittest
-from tests.context import guessprobability 
+from tests.context import guessprobability
 
 class GuessProbabilityTest(unittest.TestCase):
     app = guessprobability.core.App()
