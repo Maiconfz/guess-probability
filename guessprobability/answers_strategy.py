@@ -16,4 +16,3 @@ class AnswersStrategy(IntEnum):
         '''
         Constructor
         '''
-        

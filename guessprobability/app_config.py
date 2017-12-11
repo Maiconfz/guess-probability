@@ -8,7 +8,7 @@ class AppConfig:
     '''
     classdocs
     '''
-    
+
     testCount = None
     testQuestionCount = None
     testQuestionAnswersCount = None
@@ -18,4 +18,3 @@ class AppConfig:
         '''
         Constructor
         '''
-        
